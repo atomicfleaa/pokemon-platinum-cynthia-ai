@@ -9,3 +9,15 @@ __pycache__/
 # OS junk
 .DS_Store
 Thumbs.db
+
+# Python build artifacts
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Data / ROMs (VERY important)
+data/roms/
+data/*.nds
